@@ -69,13 +69,15 @@ However, Sample 3's exceptionally high Cosine Similarity (`0.9342`) reveals some
 ---
 
 ## 5. Replication Protocol
+---
 
 ### Environmental Configuration
 Install all required project dependencies directly via standard `pip`:
 ```bash
 pip install torch transformers datasets numpy accelerate
+```
 
----
+
 
 ### 6. Results
 Beginning optimisation routine for Activation Reconstructor Head... Epoch 1/5 | Average MSE Loss: 0.00136 Epoch 2/5 | Average MSE Loss: 0.00075 Epoch 3/5 | Average MSE Loss: 0.00057 Epoch 4/5 | Average MSE Loss: 0.00051 Epoch 5/5 | 
