@@ -83,7 +83,6 @@ pip install torch transformers datasets numpy accelerate
 Beginning optimisation routine for Activation Reconstructor Head... Epoch 1/5 | Average MSE Loss: 0.00136 Epoch 2/5 | Average MSE Loss: 0.00075 Epoch 3/5 | Average MSE Loss: 0.00057 Epoch 4/5 | Average MSE Loss: 0.00051 Epoch 5/5 | 
 Average MSE Loss: 0.00048
 
- ---
 Phase 5: Quantitative Metric Evaluation --- Qualitative Tracking Window: [Sample 1] Generated Explanation: "A. the model's internal state B. the model's external state" | Cosine Similarity: 0.4760 [Sample 2] Generated Explanation: "子 A. 事物 B. 事物的运动状态 C" | Cosine Similarity: 0.0499 [Sample 3] Generated Explanation: ") A. the model's internal state B. the model's external state C" | Cosine Similarity: 0.9342 
 
 ## Final Quantitative Summary 
